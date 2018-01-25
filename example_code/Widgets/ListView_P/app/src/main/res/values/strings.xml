@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView_P</string>
+    <string-array name="danhBaBanDau">
+        <item>.Bố</item>
+        <item>.Mẹ</item>
+        <item>.Nhà</item>
+        <item>.A Tuấn</item>
+    </string-array>
+</resources>

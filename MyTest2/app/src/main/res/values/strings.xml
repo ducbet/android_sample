@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTest2</string>
+    <string name="title_activity_get_extra_test">getExtraTest</string>
+</resources>

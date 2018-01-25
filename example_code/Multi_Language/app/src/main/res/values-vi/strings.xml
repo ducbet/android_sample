@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi_Language</string>
+    <string name="spring">Mùa xuân</string>
+    <string name="autumn">Mùa thu</string>
+    <string name="summer">Mùa hạ</string>
+    <string name="winter">Mùa đông</string>
+</resources>

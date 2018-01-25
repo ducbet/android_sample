@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:weightSum="1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Job Fair"
+                android:textColor="@android:color/holo_red_light"
+                android:textSize="50dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="   Name: "
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <EditText
+                android:id="@+id/edtName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Type name in here"
+                android:inputType="textPersonName" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="   Gender: "
+                    android:textColor="@android:color/black"
+                    android:textSize="40dp" />
+
+                <RadioGroup
+                    android:id="@+id/gRadGender"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/radMale"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:text="Male" />
+
+                    <RadioButton
+                        android:id="@+id/radFemale"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:text="Female" />
+                </RadioGroup>
+
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="   Skill:"
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <CheckBox
+                android:id="@+id/chkIT"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="IT"
+                android:textSize="20dp" />
+
+
+            <CheckBox
+                android:id="@+id/chkForeignLanguage"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Foreign language"
+                android:textSize="20dp" />
+
+
+            <CheckBox
+                android:id="@+id/chkSoftSkills"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Soft skills"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="   School: "
+                android:textColor="@android:color/black"
+                android:textSize="40dp" />
+
+            <RadioGroup
+                android:id="@+id/gRadSchool"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RadioButton
+                    android:id="@+id/radHUST"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:text="HUST: Đại học Bách Khoa Hà Nội  "
+                    android:textSize="20dp" />
+
+                <RadioButton
+                    android:id="@+id/radNUCE"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:text="NUCE: Đại học Xây Dựng   "
+                    android:textSize="20dp" />
+
+                <RadioButton
+                    android:id="@+id/radHANU"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:text="HANU: Đại học Hà Nội   "
+                    android:textSize="20dp" />
+
+                <RadioButton
+                    android:id="@+id/radVNU"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:text="VNU: Đại học Quốc Gia Hà Nội  "
+                    android:textSize="20dp" />
+
+                <RadioButton
+                    android:id="@+id/radNEU"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:text="NEU: Đại học Kinh tế Quốc dân  "
+                    android:textSize="20dp" />
+            </RadioGroup>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/imbClear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="bottom|left"
+                    android:layout_weight="1"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/clear"
+                    android:background="@android:color/white"/>
+
+                <ImageView
+                    android:id="@+id/imgLogoShool"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center|left"
+                    android:layout_weight="1"
+                    android:scaleType="centerInside" />
+
+                <ImageButton
+                    android:id="@+id/imbSendCV"
+                    android:layout_width="200dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="bottom|right"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/send"
+                    android:background="@android:color/white"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

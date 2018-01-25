@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/item_menu_voice_search"
+        android:icon="@drawable/ic_settings_voice_white_24px"
+        android:title="Voice Search"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/item_menu_back_chapter"
+        android:icon="@drawable/ic_skip_previous_white_24px"
+        android:title="Back Chapter"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/item_menu_next_chapter"
+        android:icon="@drawable/ic_skip_next_white_24px"
+        android:title="Next Chapter"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/item_menu_check_mistake"
+        android:icon="@drawable/e_mistake"
+        android:title="Check Mistake"
+        app:showAsAction="always"/>
+</menu>

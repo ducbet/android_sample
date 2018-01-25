@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--
+            layout_width chiều ngang
+            layout_height chiều cao
+
+            TextView:
+            textSize cỡ chữ
+            background màu nền
+            lines số dòng của textView, nếu không đủ thì có khoảng trắng
+            maxLines số dòng tối đa của textView
+
+            gravity căn chỉnh chữ trong textView
+            layout_gravity căn chỉnh vị trí layout
+            textStyle kiểu chữ
+
+            EditText:
+            hint hiển thị gợi ý
+            inputType định dạng nhập
+
+            Button:
+            textAllCaps == false phân biệt hoa thường, default là chữ in hoa
+
+            ImageView:
+            src set ảnh cho ImageView
+            scale thì scale theo 2 chiều: ngang và dọc, như background
+            center hiển thị nguyên kích thuowncs và crop phần thừa
+            fitCenter hay để nhất
+    -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right|bottom"
+        android:lines="2"
+        android:text="Hello World!"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="3"
+        android:text="HEDSPI K59!" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập đê: "
+        android:inputType="number" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go"
+        android:textAllCaps="false" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/calm"
+        android:scaleType="fitCenter"
+        />
+
+
+</LinearLayout>

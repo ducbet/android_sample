@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="tmd.mytest2.MainActivity"
+    android:weightSum="1">
+
+    <Button
+        android:text="Load Image From Internet"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_weight="0.03"
+        android:id="@+id/btnLoadImageInternet" />
+
+    <Button
+        android:text="Read RSS FROM WEB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnReadXML_RSS"
+        android:layout_weight="0.03" />
+
+    <Button
+        android:text="Test PutExtra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPutExtra"
+        android:layout_weight="0.03" />
+
+    <Button
+        android:text="Animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAnimation"
+        android:layout_weight="0.03" />
+</LinearLayout>

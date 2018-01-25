@@ -1,0 +1,328 @@
+<resources>
+    <string name="app_name">DisplayHTMLInTextView</string>
+    <string-array name="THIEN_NHAI_TU_QUAN_BAT_KHA_VONG_2">
+        <item>THIÊN NHAI TƯ QUÂN BẤT KHẢ VONG-</item>
+        <item>Quách Tương lấy làm lạ, hỏi:</item>
+        <item>- Ai lại để trên tay tượng Phật như thế nhỉ?</item>
+        <item>Vô Sắc lắc đầu:</item>
+        <item>- Cũng không biết nữa. Trong mấy trăm tăng chúng chùa Thiếu Lâm chúng tôi, nếu như có ai lẻn vào, chẳng lẽ không thấy? La Hán Đường lúc nào cũng có tám đệ tử ngày đêm luân phiên canh gác. Khi có người trông thấy tờ giấy này lập tức phi báo lão phương trượng, ai ai cũng lấy làm lạ, nên mới triệu lão về chùa thương nghị.</item>
+        <item>Quách Tương nghe đến đây, đã hiểu ý, nên nói:</item>
+        <item>- Phải chăng ông nghi tôi thông đồng với Côn Lôn Tam Thánh ở bên ngoài gây rối, để cho ba gã kia lẻn vào La Hán Đường để tờ giấy này, phải thế không?</item>
+        <item>Vô Sắc nói:</item>
+        <item>- Tôi đã gặp cô rồi quyết không thể nào nghi cho cô được. Thế nhưng việc cũng trùng hợp lạ kỳ, cô nương vừa rời chùa, thì tờ giấy này lại xuất hiện tại La Hán Đường, thành thử phương trượng và Vô Tướng sư đệ không khỏi không nghi.</item>
+        <item>Quách Tương nói:</item>
+        <item>- Tôi không biết ba gã này là ai. Đại hòa thượng, ông việc gì phải sợ? Mười ngày nữa, nếu như họ có gan đến đây, thì cứ xem hai bên cao thấp thế nào.</item>
+        <item>Vô Sắc nói:</item>
+        <item>- Sợ thì có gì đâu mà sợ. Nếu như cô nương với họ không có liên quan gì, tôi không có gì phải áy náy cả.</item>
+        <item>Quách Tương thấy ông ta quả có lòng tốt, chỉ ngại Côn Lôn Tam Thánh là chỗ quen biết với mình, khi động thủ ắt có nhiều điều cấm kỵ, ngại rằng sẽ đắc tội với bạn bè, nên nói:</item>
+        <item>- Nếu như họ thực lòng đến tìm hiểu võ nghệ, thì không nói làm gì. Còn không, cứ việc cho họ một phen khốn khổ. Cứ theo tờ giấy này khẩu khí xem ra cuồng vọng lắm. Cái gì mà "một phen lãnh giáo" là sao?</item>
+        <item>Nàng nói tới đây, chợt nghĩ ra một việc nên tiếp:</item>
+        <item>- Hay là có ai trong chùa cấu kết, lén bỏ vào tờ giấy này chăng? Nếu thế cũng không lấy gì làm lạ.</item>
+        <item>Vô Sắc nói:</item>
+        <item>- Chuyện đó chúng tôi cũng đã nghĩ tới rồi, nhưng nhất định không thể có. Tay của Hàng Long La Hán cao đến hơn ba trượng, ngày thường muốn phủi bụi trên pho tượng này, cũng phải bắc giá cao. Nếu có kẻ nào nhảy lên tới đó, khinh công giỏi như thế không phải là nhiều. Nếu như trong chùa có phản đồ thì tài nghệ cũng không đạt tới mức đó.</item>
+        <item>Lòng hiếu kỳ của Quách Tương nổi lên, rất muốn xem thử ba gã Côn Lôn Tam Thánh xem họ là hạng người nào, tăng chúng chùa Thiếu Lâm cùng họ tỉ thí võ nghệ, kết quả ai thắng ai bại, ngặt là chùa Thiếu Lâm không tiếp nữ khách, xem ra cái trò vui này không cách nào coi tận mắt được.</item>
+        <item>Vô Sắc thấy cô cúi đầu suy nghĩ, lại tưởng cô đang trù liệu kế sách hộ cho chùa Thiếu Lâm, nên nói:</item>
+        <item>- Chùa Thiếu Lâm cả nghìn năm qua đã chịu không biết bao nhiêu sóng to gió cả, còn tồn tại đến hôm nay. Nếu bọn Côn Lôn Tam Thánh kia nhất định cùng chúng tôi qua lại một phen, chùa Thiếu Lâm thể nào cũng cùng với họ chu toàn. Quách cô nương, nửa tháng nữa, cô ở trên chốn giang hồ sẽ nghe tin tức, để xem Côn Lôn Tam Thánh có lật đổ được chùa Thiếu Lâm không?</item>
+        <item>Nói tới đây, hào khí của ông lại nổi lên bừng bừng như thời trai trẻ. Quách Tương cười đáp:</item>
+        <item>- Đại hòa thượng bỗng dưng nổi giận, ông nói năng như thế sao còn gọi là đệ tử nhà Phật được nữa? Tốt lắm, tôi mong nửa tháng nữa sẽ nghe được tin vui.</item>
+        <item>Nói xong nàng quay mình nhảy lên lưng lừa. Hai người nhìn nhau cùng cười. Quách Tương giục con lừa đi lững thững xuống chân núi, trong lòng đã định bụng không thể nào không lên xem trận đấu. </item>
+        <item>Cô nghĩ thầm: "Làm cách nào mười ngày sau mình lẻn được vào chùa Thiếu Lâm để xem cái cảnh đáng xem này? Chỉ e mấy gã Côn Lôn Tam Thánh chẳng có chân tài thực học, bị mấy nhà sư đánh cho vài cái đã thua, thì có gì là thú. Chỉ mong bọn họ chỉ cần được bằng một nửa gia gia, ông ngoại, hoặc đại ca, thì cái màn Côn Lôn Tam Thánh đại náo Thiếu Lâm tự kia mới đáng đến coi".</item>
+        <item>Nghĩ đến Dương Quá, trong lòng lại thấy u uất, ba năm qua đi khắp nơi tìm kiếm, vẫn không thấy bóng dáng tăm hơi. </item>
+        <item>Im lìm cổ mộ núi Chung Nam, </item>
+        <item>Vạn Hoa hoa rụng tiếng mang mang.</item>
+        <item>Hang núi Tuyệt Tình sao vắng lặng,</item>
+        <item>Đìu hiu trăng lạnh bến Phong Lăng.</item>
+        <item>(Chung Nam sơn, cổ mộ trường bế,</item>
+        <item>Vạn Hoa huyễn, hoa lạc vô thanh.</item>
+        <item>Tuyệt Tình cốc, không sơn tịch tịch,</item>
+        <item>Phong Lăng độ, lãnh nguyệt minh minh)</item>
+        <item>Thế nhưng, trong đầu nàng cũng đã nghĩ không biết bao nhiêu lần: "Thực ra, dẫu ta có kiếm được y, thì cũng để làm gì? Chẳng càng thêm buồn khổ, thêm sầu não? Y đi xa xôi biệt tăm biệt tích chẳng tốt hơn ư? Đã biết rằng đi tìm y có khác gì đi tìm hoa trong gương, trăng dưới nước, nhưng sao ta vẫn cứ nghĩ đến, vẫn muốn đi tìm".</item>
+        <item>Nàng cứ để cho con lừa tự thả bước, đi lang thang trong vùng núi Thiếu Thất, theo hướng tây đã vào địa giới của Tung Sơn. Quay đầu nhìn lại ngọn đông phong của núi Thiếu Thất chỉ thấy cao vút xanh xanh, núi nọ liền núi kia bất tận. Cứ như thế nàng đi mấy ngày liền, một ngày kia đã tới đài Tam Hưu, nghĩ thầm: "Sao lại tam hưu, mà là ba cái hưu (điều tốt lành) nào? Đời người có thiên hưu, vạn hưu đâu phải chỉ tam hưu?".</item>
+        <item>Lại rẽ qua hướng bắc, đi qua một đỉnh núi, thấy đến mấy trăm gốc cổ bách, cây nào cũng thẳng cao vòi vọi, ánh mặt trời chiếu xuống thành những đốm hoa, thật là rực rỡ. Quách Tương đang ngắm cảnh, bỗng nghe thấy từ bên kia sườn núi văng vẳng nghe đâu tiếng đàn vọng đến, lấy làm lạ lùng, nghĩ thầm: "Ở nơi hoang tịch này, sao lại có cao nhân nhã sĩ đến đây gẩy đàn". Nàng từ bé được mẹ dạy, cầm kỳ thư họa, môn nào cũng biết, tuy chưa sâu sắc, nhưng tính thông tuệ, lại trời sinh hay nhìn xa nghĩ rộng, mỗi khi cùng mẫu thân luận cầm, đàm thư, thỉnh thoảng cũng có những tư tưởng độc đáo, tìm ra được những điều chưa ai nghĩ đến. Lúc này nghe thấy tiếng đàn, nổi tính hiếu kỳ, nên xuống lừa, theo tiếng đàn tìm đến.</item>
+        <item>Đi qua hơn mươi trượng, lại nghe thấy lẫn trong tiếng đàn có lẫn vô số tiếng chim, lúc đầu chưa chú ý, nhưng nghe kỹ, tiếng đàn dường như cùng tiếng chim đối đáp, líu líu lo lo, dặt dìu uyển chuyển. Quách Tương náu mình sau gốc cây, nhìn về phía có tiếng đàn phát ra, chỉ thấy một người đàn ông mặc áo trắng ngồi quay lưng lại giữa ba gốc tùng già, trong lòng để một cây tiêu vĩ cầm, đang gảy đàn. Trên những cành cây chung quanh người đó đậu đầy chim sẻ, hoàng oanh, đỗ quyên, bát ca, và còn vô số những con chim khác nàng không biết tên cùng với tiếng đàn, hoặc kẻ hỏi người đáp, hoặc cùng cất giọng xướng theo. Quách Tương nghĩ thầm: "Mẹ ta nói rằng trong các điệu đàn có một khúc tên là "Không Sơn Điểu Ngữ", thất truyền đã lâu, phải chăng chính là khúc đàn này?".</item>
+        <item>Nghe một lát, tiếng đàn mỗi lúc một vang thêm, nhưng mỗi lần tiếng đàn lên cao, thì đàn chim lại ngưng tiếng, chỉ nghe thấy tiếng vỗ cánh, đông tây nam bắc bốn phía bay lại vô số là chim, con thì đậu trên cành, con thì bay lượn lên xuống, lông chim bay phất phới, thật là lạ mắt. Tiếng đàn tuy bình hòa trung chính nhưng bên trong có ẩn một phong vị vương giả.</item>
+        <item>Quách Tương trong lòng càng thêm kinh hãi: "Người này có thể dùng tiếng đàn để tập hợp đàn chim, phải chăng bản đàn này là Bách Điểu Triều Phượng? Tiếc thay không có ông ngoại ở đây, nếu không sẽ dùng cây ngọc tiêu thiên hạ không ai sánh kịp đem ra hòa nhịp, có thể gọi là song tuyệt đời nay".</item>
+        <item>Người đó đàn đến khúc cuối, tiếng đàn nhỏ dần, tất cả chim chóc trên cây cùng bay ra múa may một lượt. Bỗng dưng nghe một tiếng keng, tiếng đàn dứt hẳn, đàn chim bay thêm một hồi rồi từ từ bay đi mỗi con một phía.</item>
+        <item>Người đó tiện tay đưa lên dây đàn gảy thêm vài đoạn ngắn, ngẩng đầu lên nhìn trời thở dài, nói:</item>
+        <item>- Vỗ trường kiếm, dương mi lên, nước trong đá trắng sao xa cách? Thế gian này nếu không có kẻ tri âm, dù sống đến nghìn tuổi, phỏng có ích gì?</item>
+        <item>Nói đến đây, đột nhiên từ đáy chiếc đàn người đó rút ra một thanh trường kiếm, ánh xanh lấp lánh, chiếu ra trong rừng. Quách Tương nghĩ thầm: "Nguyên lai người này văn võ toàn tài, không biết kiếm pháp của y ra sao".</item>
+        <item>Chỉ thấy y chậm rãi đi tới bãi đất trống trước một câu cổ tùng, mũi kiếm chỉ xuống đất, gạch tới gạch lui, hết vạch này tới vạch khác. Quách Tương lấy làm lạ: "Trên thế gian có loại kiếm pháp kỳ quái đến thế sao? Chẳng lẽ chỉ trỏ kiếm xuống đất vạch một hồi, có thể khắc địch chế thắng? Người này quả thật quái dị không thể nào đo lường được."</item>
+        <item>Y vạch một hồi, thấy gạch ngang mười chín nét, rồi đổi qua gạch dọc, tất cả cũng mười chín nét. Kiếm chiêu trước sau không thay đổi, dù dọc hay ngang cũng chỉ thẳng băng như chữ nhất. Quách Tương theo dõi kiếm thế của y, cũng đưa tay vạch lên đất mười chín nét, bỗng dưng bật cười, y đâu có sử dụng quái dị kiếm pháp nào đâu, mà chỉ dùng kiếm vạch thành một bàn cờ dọc ngang mỗi chiều mười chín nét.</item>
+        <item>Người đó vẽ bàn cờ xong, dùng mũi kiếm vẽ tại góc trái bên trên và góc phải bên dưới mỗi nơi một vòng tròn, lại tại góc phải bên trên và góc trái bên dưới mỗi nơi vẽ một vạch chéo. Quách Tương đã thấy y vẽ đây là một bàn cờ vây, biết y đang bố trí trận thế tại bốn góc, hình tròn là bên trắng, hình chéo là bên đen. Lại thấy y đặt một vòng tròn cách ba ô trên góc trái, lại cách dưới hai ô vạch một hình chéo. Đi đến nước thứ mười chín, y chống kiếm đứng, cúi đầu suy nghĩ, đang phân vân không biết nên bỏ quân giữ thế hay cố sức tranh góc cạnh.</item>
+        <item>Quách Tương nghĩ thầm: "Người này cũng chẳng khác gì ta, thật là tịch mịch, ở trong núi hoang gảy đàn, lấy chim chóc làm tri âm; đánh cờ lại cũng không có đối thủ, chỉ tự mình đánh với mình."</item>
+        <item>Người đó suy nghĩ một hồi, quân trắng không cách gì lơi ra được, trên góc trái đấu với quân đen thật kịch liệt, nhất thời chưa tìm ra cách nào hay, từ bắc xuống nam không thể nào tranh được phúc địa ở Trung Nguyên. Quách Tương xem cờ xuất thần, từ từ nhích lại gần, nhưng vì quân trắng lúc bố cục bị thua một nước, trước sau vẫn bị rơi vào hạ phong, đến nước thứ hai mươi ba thì gặp phải liên hoàn kiếp, bên quân trắng lâm vào thế nguy, nhưng y vẫn cố gắng chống đỡ. Người đời thường nói "Cờ ngoài bài trong", ý nói người đứng ngoài coi đánh cờ bao giờ cũng sáng nước hơn. Quách Tương đánh cờ cũng chỉ bình bình, nhưng nhìn thấy thế cục nếu bên trắng còn đánh giằng dai không khỏi toàn quân bị mất, nên buột miệng nói:</item>
+        <item>- Sao không bỏ Trung Nguyên đi để lấy Tây Vực?</item>
+        <item>Người nọ giật mình, thấy trên bàn cờ phía tây còn một chỗ trống lớn, nên lợi dụng bên kia đang chặn bắt, để luôn hai quân, chiếm lấy chỗ yếu, tuy bỏ nửa chừng nhưng biến được thành thế không thắng không bại. Người đó được Quách Tương một lời nhắc nhở, ngửng mặt lên trời cười một hồi dài, luôn mồm: "Hay lắm, hay lắm". Nói rồi hạ luôn mấy quân. Y chợt nghĩ ra có người đang ở bên cạnh, nên ném trường kiếm xuống đất, quay lại nói:</item>
+        <item>- Vị cao nhân nào đó đã chỉ dạy, tại hạ thật là cảm kích.</item>
+        <item>Nói rồi hướng về phía Quách Tương đang ẩn náu vái chào một cái.</item>
+        <item>Quách Tương thấy người này mặt dài mắt sâu, thân hình gầy guộc, độ chừng trên dưới ba mươi tuổi. Nàng vốn dĩ khoáng đạt, cũng không tị hiềm nam nữ, nên từ trong bụi hoa bước ra, mỉm cười:</item>
+        <item>- Mới rồi được nghe tiên sinh nhã tấu, không sơn điểu ngữ, bách cầm lai triều, thật lấy làm bội phục. Lại thấy tiên sinh vạch đất thành bàn cờ, đen trắng giao phong, khiến cho phải say mê theo dõi mà quên cả hình hài, nên nhịn không được nên góp một lời, xin rộng lòng tha thứ.</item>
+        <item>Người nọ thấy Quách Tương chỉ là một cô gái tuổi trẻ, lấy làm lạ lùng, nhưng nghe cô nói về tiếng đàn, quả nhiên không sai một mảy nên càng cao hứng, nói:</item>
+        <item>- Cô nương thông thạo cầm lý, nếu như không từ chối, xin cho được nghe một điệu.</item>
+        <item>Quách Tương cười đáp:</item>
+        <item>- Mẹ tôi tuy đã dạy tôi đánh đàn, nhưng so với thần kỹ của ngài, thì kém xa lắm. Thế nhưng đã được nghe tiếng đàn kỳ diệu của ngài, không đáp lễ một bản, thì xem ra không phải lẽ. Được rồi, tôi xin đàn một bản, nhưng xin ông đừng cười nhé.</item>
+        <item>Người kia đáp:</item>
+        <item>- Đâu dám.</item>
+        <item>Hai tay bưng cây dao cầm[4], đưa tới trước mặt Quách Tương. Quách Tương thấy chiếc đàn đó đã có nhiều vết loang lổ, hiển nhiên đã cũ lắm rồi, nên lên dây xong bắt đầu gẩy một khúc "Khảo Bàn". Thủ pháp nàng không có gì thần kỳ, nhưng người đó nghe vừa mừng vừa sợ, nghe tiếng đàn mà tưởng đến lời từ: </item>
+        <item>Suối kia róc rách vỗ bàn,</item>
+        <item>Lòng ta thanh thản như làn nước khe.</item>
+        <item>Dù ai nói tỉnh nói mê,</item>
+        <item>Một mình mình biết chẳng hề nhãng quên.</item>
+        <item>Khảo bàn tại giản,</item>
+        <item>Thạc nhân chi khoan,</item>
+        <item>Độc mị ngụ ngôn,</item>
+        <item>Vĩnh thỉ vật huyên[5]".</item>
+        <item></item>
+        <item>Bài từ đó ở Thi Kinh mà ra, là bài ca của một ẩn sĩ nói đại trượng phu đi du ngoạn trong khe suối, đi đâu thì đi, tuy tịch mịch không ai bầu bạn, mặt mày tiều tụy, nhưng chí hướng cao khiết, không bao giờ thay đổi. Người đó nghe tiếng đàn nói đúng tâm sự mình, không thể không cực kỳ cảm kích. Tiếng đàn đã dứt rồi mà y vẫn còn đứng ngơ ngơ ngẩn ngẩn.</item>
+        <item>Quách Tương nhẹ nhàng để chiếc dao cầm xuống, quay mình đi ra khỏi rừng tùng, cất tiếng hát: </item>
+        <item>Vỗ bàn lồng lộng gò đây,</item>
+        <item>Lòng ta son sắt như cây trục này.</item>
+        <item>Dù người nói tỉnh nói say,</item>
+        <item>Một mình mình biết ai hay làm gì.</item>
+        <item></item>
+        <item>Khảo bàn tại lục,</item>
+        <item>Thạc nhân chi trục, </item>
+        <item>Độc mị độc túc, </item>
+        <item>Vĩnh thỉ vật cáo[6].</item>
+        <item>Nàng vẫy con lừa lại nhảy lên đi thẳng vào trong khu rừng sâu.</item>
+        <item>Nàng đi lại trong giang hồ đã ba năm qua, từng gặp nhiều chuyện lạ lùng, người này dùng tiếng đàn để gọi chim, lại vạch đất thành bàn tự mình đánh cờ, với nàng cũng chẳng qua như mây khói trước mặt, cánh bèo làn gió khi tụ khi tan, qua đi không để lại dấu vết gì.</item>
+        <item>Lại hai ngày qua, bấm đốt ngón tay tính ra từ hôm nàng tiến vào làm huyên náo chùa Thiếu Lâm đã được mười ngày, cũng là ngày Côn Lôn Tam Thánh ước định đến chùa giảo nghiệm võ công. Quách Tương chưa nghĩ ra cách nào để có thể lẻn vào chùa xem trò vui, nghĩ thầm: "Mẹ ta chuyện gì cũng chỉ liếc mắt một cái, là đã nghĩ ra ngay mười bảy, mười tám diệu kế. Sao ta ngu đến vậy, đến một kế cũng nghĩ không ra. Được rồi, không cần biết, cứ đến bên ngoài chùa Thiếu Lâm xem xét rồi hãy hay. Có khi bọn họ mắc đối phó ngoại địch khẩn cấp, nên quên bẵng ngăn ta lên chùa không chừng."</item>
+        <item>Nàng ăn qua loa mấy món lương khô, lại cưỡi con lừa đen nhằm hướng chùa Thiếu Lâm. Khi nàng còn cách chùa độ chừng mươi dặm, bỗng nghe tiếng vó ngựa dồn dập, từ phía sơn đạo bên trái có ba người nối đuôi nhau chạy tới. Ba con ngựa bước chân nhanh nhẹn, chỉ trong chớp mắt đã vượt ngang bên Quách Tương, chạy thẳng lên phía chùa Thiếu Lâm. Trên lưng ngựa là ba người trạc độ trên dưới năm mươi, mặc áo ngắn bằng vải xanh, trên yên ngựa người nào cũng mang theo túi vải đựng binh khí.</item>
+        <item>Quách Tương chợt động tâm, nghĩ thầm: "Ba người này đều có võ công, hôm nay lại đeo binh khí lên chùa Thiếu Lâm, hẳn là Côn Lôn Tam Thánh rồi! Nếu ta chậm một bước, thì chắc không được coi cái màn vui này." Nàng giơ tay đánh lên mông con lừa một cái, con vật ngửng đầu hí một hồi dài, lao đầu chạy lẽo đẽo theo ba con ngựa.</item>
+        <item>Những người cưỡi ngựa ra roi, ba con ngựa chạy thẳng lên núi, cước lực thật nhanh, chỉ nháy mắt đã bỏ con lừa của Quách Tương một quãng thật xa, không cách gì đuổi kịp. Một ông già quay đầu lại nhìn Quách Tương một cái, trên mặt lộ vẻ lạ lùng.</item>
+        <item>Quách Tương lại ra sức chạy theo hai, ba dặm nữa, nhưng tung tích ba con ngựa kia không còn thấy đâu. Con lừa chạy một hồi lâu, miệng thở phì phò, xem chừng không còn chịu nổi. Quách Tương mắng nó: "Thật là đồ súc sinh không ra giống gì, bình thời thì nổi chứng chạy loạn lên, lúc cô nương cần ngươi, thì ngươi lại chạy không bằng ai". Nàng thấy có giục nó cũng chẳng đến đâu, nên dừng lại một tòa thạch đình bên đường nghỉ ngơi một lát, để cho con lừa xuống suối bên cạnh uống nước. Một lúc sau, bỗng nghe tiếng vó ngựa vang lên, ba con ngựa hồi nãy lại qua một khúc quanh, chạy ngược trở lại. Quách Tương lấy làm lạ: "Sao ba người này vừa mới lên đã quay trở lại, không lẽ họ chịu không nổi một đòn hay sao?"</item>
+        <item>Ba con ngựa tung vó, dựng bờm chạy thẳng đến tòa thạch đình, ba người trên ngựa xoay mình nhảy xuống. Quách Tương nhìn ba người này, thấy một người thân hình thấp lùn, mặt đỏ như chu sa, mũi đỏ như kẻ nghiện rượu, nhưng miệng cười hề hề xem chừng ôn hòa, dễ thân cận; một người thì gầy cao như cây tre miễu, mặt mày xanh xao, trong màu trắng có ẩn màu xanh lục, tưởng như cả đời không ra nắng bao giờ. Hai người này thân hình dung mạo, không có chỗ nào giống nhau. Người thứ ba tướng mạo bình bình không có gì lạ, chỉ có da mặt vàng vọt, có vẻ như người đang bệnh hoạn.</item>
+        <item>Lòng hiếu kỳ của Quách Tương nổi lên, nên hỏi:</item>
+        <item>- Này ba vị lão tiên sinh, quí vị đã đến chùa Thiếu Lâm chưa? Sao vừa mới lên đã trở xuống?</item>
+        <item>Lão già mặt xanh lườm nàng một cái, xem chừng khó chịu vì cô đã hỏi lăng nhăng. Ông già thấp lùn mũi đỏ, mặt hồng hào cười hỏi:</item>
+        <item>- Sao cô nương biết là chúng tôi lên chùa Thiếu Lâm?</item>
+        <item>Quách Tương nói:</item>
+        <item>- Từ đây trở lên, không lên chùa Thiếu Lâm thì còn đi đâu?</item>
+        <item>Ông già mặt đỏ gật đầu:</item>
+        <item>- Cô nói thế cũng đúng. Còn cô nương đang định đi đâu?</item>
+        <item>Quách Tương nói:</item>
+        <item>- Các ông lên chùa Thiếu Lâm thì tôi cũng lên chùa Thiếu Lâm.</item>
+        <item>Ông già mặt xanh nói:</item>
+        <item>- Chùa Thiếu Lâm xưa nay không để đàn bà con gái bước chân vào sơn môn một bước, lại không cho người ngoài đeo binh khí vào chùa.</item>
+        <item>Giọng nói có vẻ ngạo mạn, thân hình ông ta lại cao nên nhìn qua đầu nàng, chứ không nhìn vào nàng lấy một lần. Quách Tương trong lòng bực mình, nói:</item>
+        <item>- Thế sao các ông đeo binh khí thì được? Cái bao vải ở bên cạnh yên ngựa kia, chẳng phải để binh khí thì là gì?</item>
+        <item>Lão già mặt xanh lạnh lùng nói:</item>
+        <item>- Ngươi sao lại sánh được với bọn ta?</item>
+        <item>Quách Tương cười khẩy một tiếng:</item>
+        <item>- Ba người các ông thì là cái gì? Ở đâu mà phách lối vậy? Côn Lôn Tam Thánh đã đấu với các hòa thượng chùa Thiếu Lâm chưa? Ai thắng ai bại?</item>
+        <item>Ba ông già đó vẻ mặt lập tức hơi biến sắc. Ông già mặt đỏ hỏi lại:</item>
+        <item>- Tiểu cô nương, làm sao cô biết được chuyện Côn Lôn Tam Thánh?</item>
+        <item>Quách Tương nói:</item>
+        <item>- Tự nhiên tôi phải biết chứ.</item>
+        <item>Ông già mặt xanh bất thần tiến lên một bước, gay gắt nói:</item>
+        <item>- Ngươi họ gì? Môn hạ của ai? Đến Thiếu Lâm tự làm gì?</item>
+        <item>Quách Tương vênh mặt lên, nói:</item>
+        <item>- Ông hỏi làm gì?</item>
+        <item>Ông già mặt xanh tính tình nóng nảy, giơ tay lên, định tát cho cô gái một cái, nhưng nghĩ ra ỷ lớn ăn hiếp nhỏ, đàn ông bắt nạt đàn bà không vẻ vang gì, mình là hạng người như thế không lẽ hơn thua với một cô bé con? Thân hình hơi nhích một tí, y giơ tay chộp lấy thanh đoản kiếm Quách Tương đeo ở bên hông. Ông ta ra tay nhanh đến nỗi không ai có thể lường được, Quách Tương chỉ thấy một làn gió nhẹ vèo qua, một bóng người thấp thoáng, bội kiếm đã bị ông ta lấy mất.</item>
+        <item>Nàng không kịp đề phòng, lại không ngờ ông già làm thế, từ trước đến nay hành tẩu giang hồ chưa từng gặp phải bao giờ. Kỳ thực với võ công duyệt lịch như nàng, nếu tại giang hồ đi lại quả thực hết sức bất lợi, nhưng trong võ lâm, mười người thì đến tám chín biết nàng là con gái của Quách Tĩnh, Hoàng Dung. Đến sau khi Dương Quá truyền tin chúc mừng sinh nhật, bàng môn tả đạo ai ai cũng đều biết, nên nếu không nể mặt Quách Tĩnh, Hoàng Dung thì cũng phải nể mặt Dương Quá. Hơn nữa ngoài dung nhan mỹ lệ, tính cô lại hào sảng hiếu khách, nơi thị tứ dù người kéo xe, bán tương cho đến đồ tể, phu phen, nếu đã gặp cũng đều mua rượu cùng uống với họ một chén. Thành thử trên chốn giang hồ tuy phong ba hiểm ác, nàng cũng đều tai qua nạn khỏi, gặp dữ hóa lành, trước nay chưa bị làm khó dễ bao giờ.</item>
+        <item>Bây giờ bỗng nhiên bị ông già mặt xanh đoạt mất kiếm, nhất thời cô không biết phải làm sao, nếu tiến lên đoạt lại, thì biết võ công không bì kịp, còn nếu bỏ qua, thì trong lòng chịu sao được?</item>
+        <item>Ông già mặt xanh dùng ngón tay giữa và ngón tay trỏ tay trái kẹp lấy bao đoản kiếm, lạnh lùng nói:</item>
+        <item>- Thanh kiếm của ngươi, ta tạm giữ. Ngươi có gan vô lễ với ta như vậy, chắc là tại cha mẹ hay sư trưởng thiếu dạy dỗ. Ngươi bảo họ đến gặp ta để lấy lại thanh kiếm, để ta tử tế bảo cho họ biết, hầu dạy cho cha mẹ sư trưởng của ngươi một trận.</item>
+        <item>Câu nói đó làm cho Quách Tương tức giận đến nỗi mặt đỏ bừng. Nghe ông ta nói đã coi nàng là một đứa trẻ con nhà mất dạy, nên nghĩ thầm: "Giỏi nhỉ! Ngươi mắng chửi ta, lại còn dám chửi cả ông ngoại và cha mẹ ta, chắc ngươi có tài thông thiên, nên mới phách lối đến mức không sợ trời không sợ đất gì cả"..</item>
+        <item>Nàng định thần, cố nhịn, hỏi:</item>
+        <item>- Tên ông là gì?</item>
+        <item>Ông già mặt xanh hừ một tiếng, nói:</item>
+        <item>- Cái gì mà lại "Tên ông là gì?" Ta dạy cho ngươi biết, ngươi phải hỏi là :"Xin thỉnh giáo tôn tính đại danh của lão tiền bối?"</item>
+        <item>Quách Tương giận nói:</item>
+        <item>- Tôi chỉ hỏi cho biết tên ông vậy thôi. Ông không nói thì thôi, ai phải cầu cạnh? Thanh kiếm đó có đáng gì đâu? Ông già đầu không biết xấu, ăn cắp, ăn cướp của người khác, tôi không thèm lấy lại đâu.</item>
+        <item>Nói xong nàng quay lưng, toan đi ra khỏi thạch đình. Bỗng thấy trước mặt một bóng thấp thoáng, ông già lùn mặt đỏ đã chặn ngay trước mặt, cười hì hì:</item>
+        <item>- Con gái tính tình không nên nóng nảy như vậy, sau này về làm dâu nhà người ta, đâu có thể giữ mãi cái tính trẻ con như thế? Được rồi, để ta nói cho cô nghe, chúng tôi là ba người sư huynh đệ, mấy ngày qua đường xá xa xôi từ Tây Vực đến Trung Nguyên ...</item>
+        <item>Quách Tương dẩu môi đáp:</item>
+        <item>- Ông không cần nói tôi cũng biết. Đất Thần Châu Trung Nguyên chúng tôi, không ai biết ba người các ông bao giờ.</item>
+        <item>Ba ông già nhìn nhau, ông già mặt đỏ hỏi:</item>
+        <item>- Xin hỏi cô nương, tôn sư là ai thế?</item>
+        <item>Quách Tương khi ở chùa Thiếu Lâm không chịu nói tên cha mẹ của mình, lúc này trong bụng tức lắm, nên nói:</item>
+        <item>- Cha tôi họ Quách, đơn danh một chữ Tĩnh. Mẹ tôi họ Hoàng, đơn danh một chữ Dung. Tôi không có sư phụ, chỉ nhờ cha mẹ dạy qua loa thôi.</item>
+        <item>Ba ông già lại nhìn nhau. Ông già mặt xanh lẩm bẩm: "Quách Tĩnh? Hoàng Dung? Họ thuộc môn phái nào thế nhỉ? Là đệ tử của ai?"</item>
+        <item>Quách Tương lúc này trong lòng bực không sao chịu nổi, nghĩ thầm tên tuổi cha mẹ mình ai ai cũng biết, đừng nói chi người trong võ lâm, mà đến dân thường, ai không biết Quách đại hiệp nghĩa thủ Tương Dương? Thế nhưng nhìn thần sắc của ba ông già này, không phải là giả vờ không biết. Nàng nghĩ một hồi, chợt vỡ lẽ: "Ba gã Côn Lôn Tam Thánh từ Tây vực xa xôi, trước nay chưa hề vào Trung Thổ. Tuy họ võ công cao như thế nhưng cha mẹ ta cũng chưa đề cập đến tên tuổi họ bao giờ, cho nên không biết được tên hai ông bà thật cũng không có gì lạ. Ắt là họ ở sâu trong núi Côn Lôn, chăm chỉ tập luyện võ công, xưa nay không hề nghe đến chuyện bên ngoài." Nghĩ như vậy, trong lòng mới thấy nhẹ nhõm, nộ khí tiêu tan. Nàng vốn dĩ không phải là người tính tình nhỏ nhặt, chấp nhất, nên nói:</item>
+        <item>- Tôi họ Quách, tên Tương, là chữ Tương trong tên thành Tương Dương đó. Hay lắm, tôi đã cho các ông biết tên tôi rồi. Xin hỏi ba vị lão tiên sinh tôn tính đại đanh là gì?</item>
+        <item>Ông già mặt đỏ cười hì hì nói:</item>
+        <item>- Phải đó, cô bé con ngoan lắm, dạy một lần là nhớ ngay, thế mới là đạo lý tôn trọng bậc trưởng bối.</item>
+        <item>Nói rồi chỉ ông già mặt vàng:</item>
+        <item>- Vị này là đại sư ca của anh em ta, họ Phan, tên là Thiên Canh. Ta là nhị sư huynh, họ Phương, tên gọi Phương Thiên Lao.</item>
+        <item>Tay chỉ ông già mặt xanh nói:</item>
+        <item>- Còn đây tam sư đệ, họ Vệ, tên là Thiên Vọng. Bọn ta có ba anh em, trong tên ai cũng có chữ Thiên cả.</item>
+        <item>Quách Tương à một tiếng, nhẩm lại một lượt, rồi hỏi:</item>
+        <item>- Các ông chẳng hay đã lên đến chùa Thiếu Lâm chưa? Các ông đã tỉ thí võ nghệ với các hòa thượng trên chùa chưa? Hai bên, bên nào võ công cao cường hơn?</item>
+        <item>Ông già mặt xanh Vệ Thiên Vọng hừ một tiếng, gay gắt hỏi lại:</item>
+        <item>- Sao cái gì ngươi cũng biết thế? Bọn ta muốn tỉ thí võ nghệ với các hòa thượng chùa Thiếu Lâm, thiên hạ ít ai biết, làm sao ngươi lại biết? Nói mau, nói mau!</item>
+        <item>Nói rồi ông ta sấn tới trước mặt Quách Tương, tay phải nắm chặt, hung hăng trừng mắt nhìn cô gái. Quách Tương nghĩ thầm:</item>
+        <item>- Đời nào ta để cho y uy hiếp? Có nói cho ngươi hay cũng không có gì quan trọng, nhưng ngươi càng dữ dằn, ta càng không thèm nói.</item>
+        <item>Cô trợn mắt nhìn y một cái, thản nhiên nói:</item>
+        <item>- Tên của ông nghe không hay, sao không đổi thành "Thiên Ác" có hơn không?</item>
+        <item>Vệ Thiên Vọng giận dữ:</item>
+        <item>- Cái gì?</item>
+        <item>Quách Tương đáp:</item>
+        <item>- Hung thần ác sát như ông trên đời ít có, đã giựt mất kiếm của tôi, lại còn hầm hầm, có phải là sao Thiên Ác trên trời xuống đây hay không?</item>
+        <item>Vệ Thiên Vọng gầm gừ trong họng mấy tiếng như con thú, ngực bỗng phồng lên thật lớn, tóc và lông mày như muốn dựng cả lên. Ông già mặt đỏ Phương Thiên Lao vội kêu lên:</item>
+        <item>- Tam đệ, không được nổi nóng.</item>
+        <item>Lập tức nắm vai Quách Tương lôi về phía sau vài thước, lấy thân mình chắn giữa hai người. Quách Tương thấy Vệ Thiên Vọng như thế, nếu y quả thực ra tay ắt nàng không sao chống đỡ được, trong lòng không khỏi hơi khiếp sợ. Vệ Thiên Vọng tay phải rút kiếm ra khỏi bao, tay trái hai ngón tay kẹp lấy mũi kiếm, vận sức vào đốt ngón tay, nghe cách một tiếng, đầu kiếm đã gãy làm hai, rồi bỏ cả hai mảnh trở lại bao, nói:</item>
+        <item>- Ai thèm lấy cái thứ kiếm vô dụng của ngươi làm gì!</item>
+        <item>Quách Tương thấy kình lực ngón tay của y lợi hại như thế không khỏi hãi sợ. Vệ Thiên Vọng thấy nàng biến sắc, đắc ý ngửng đầu cười ha hả. Tiếng cười của y ù cả tai, rung động đến nỗi ngói trên mái đình cũng kêu lách cách.</item>
+        <item>Trong khi tiếng vang chưa dứt, bỗng dưng mái đình thủng một mảng lớn, một vật gì đó rơi bịch xuống đất. Mọi người ai nấy giật mình, đến Vệ Thiên Vọng cũng không tưởng nổi y nội lực sung túc đến mức tiếng cười có thể làm chấn động mái ngói. Thực ra tiếng cười của y không hàm ý vui vẻ mà chỉ là vận kình kêu lên "ha ha" vài tiếng, vậy mà làm thủng được mái ngói, khiến y vừa mừng vừa sợ, không ngờ gần đây nội lực của mình lại tiến bộ đến thế. Thế nhưng nhìn lại cái vật vừa rơi xuống lại càng sợ hơn, chỉ thấy đó là một hán tử trung niên mặc áo trắng, hai tay ôm một cây dao cầm, lăn quay dưới đất, mắt vẫn nhắm nghiền ngủ say sưa.</item>
+        <item>Quách Tương vui mừng nói:</item>
+        <item>- Ồ, ông cũng ở đây sao?</item>
+        <item>Hóa ra người đàn ông này chính là người ngồi đánh đàn nàng gặp mấy hôm trước trên núi. Người đó nghe tiếng Quách Tương, vội nhỏm dậy, nói:</item>
+        <item>- Cô nương, tôi đang đi tìm cô, không ngờ lại gặp nhau ở đây.</item>
+        <item>Quách Tương hỏi:</item>
+        <item>- Ông đi kiếm tôi có chuyện gì thế?</item>
+        <item>Người đó đáp:</item>
+        <item>- Tôi quên không thỉnh giáo tôn tính đại danh của cô nương.</item>
+        <item>Quách Tương nói:</item>
+        <item>- Cái gì mà tôn tính đại danh? Những lời màu mè giả dối đó tôi không thích chút nào.</item>
+        <item>Người nọ khựng lại, cười đáp:</item>
+        <item>- Đúng lắm, đúng lắm. Càng để ý đến hư văn, loại người đó càng không có chân tài thực học. Hạng đó đi lòe mấy người nhà quê, chứ làm được chuyện gì.</item>
+        <item>Y vừa nói vừa liếc nhìn Vệ Thiên Vọng, cười khẩy mấy tiếng. Quách Tương mừng lắm, không ngờ người này biết hết mọi chuyện, cố ý giúp đỡ mình. </item>
+        <item>Vệ Thiên Vọng thấy người nọ liếc mình, mặt y đã xanh lại càng xanh thêm, lạnh lùng hỏi:</item>
+        <item>- Tôn giá là ai?</item>
+        <item>Người nọ không thèm để ý tới y, nói với Quách Tương:</item>
+        <item>- Cô nương, tên cô là gì nhỉ?</item>
+        <item>Quách Tương nói:</item>
+        <item>- Tôi họ Quách, đơn danh Tương.</item>
+        <item>Người nọ vỗ tay:</item>
+        <item>- A, thật đúng là có mắt mà không thấy núi Thái Sơn, hóa ra đây là Quách đại cô nương, người mà bốn bể ai cũng nghe danh. Lệnh tôn là Quách Tĩnh Quách đại hiệp, lệnh đường Hoàng Dung Hoàng nữ hiệp, trừ bọn vô tri vô thức, không biết trời trăng gì mới không biết đến, chứ trên giang hồ có ai không hay, có ai không biết? Hai vị đó văn võ song toàn, đao thương kiếm kích, quyền chưởng khí công, cầm kỳ thư họa, thi từ ca phú, xưa nay không môn gì không hơn người, ai mà bì kịp. Ha ha, chỉ có cái bọn thong manh, mới không nghe đến tiếng vang vọng của hai ông bà.</item>
+        <item>Quách Tương trong lòng thật vui, nghĩ thầm : "Thì ra ngươi ẩn náu ở trên nóc đình, đã nghe thấy những gì ta nói với ba người này rồi. Xem ra chính ngươi cũng chẳng biết gì về cha mẹ ta. Ta thứ hai, vậy mà gọi là đại cô nương, lại bảo cha ta cũng thông cầm kỳ thư họa, thi từ ca phú, thật đáng nực cười".</item>
+        <item>Nghĩ như thế nên nàng cười hỏi lại:</item>
+        <item>- Thế còn tên ông là gì?</item>
+        <item>Người kia đáp:</item>
+        <item>- Tôi họ Hà, tên là Túc Đạo.</item>
+        <item>Quách Tương cười:</item>
+        <item>- Hà Túc Đạo, Hà Túc Đạo ư? Cái tên ông sao khiêm tốn quá vậy.[7]</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- So với cái bọn thiên gì, địa gì khoác lác không biết xấu hổ, cái thứ nhãi nhép cuồng vọng tự tôn, thùng rỗng kêu to chỉ tổ làm người ta buồn mửa.</item>
+        <item>Hà Túc Đạo liên tiếp mỉa mai châm chọc bọn ba anh em Vệ Thiên Vọng. Ba người thấy y ép sập nóc đình rơi xuống, hẳn không tầm thường, lúc đầu họ còn cố nhịn, để xem bạch y quái khách này là hạng người nào. Thế nhưng càng nghe lời lẽ y càng chua cay, Vệ Thiên Vọng thấy không còn chịu nổi, vung tay nhắm ngay má trái của y đánh ra một chưởng.</item>
+        <item>Hà Túc Đạo hơi cúi đầu, luồn dưới cánh tay y mà lách qua. Vệ Thiên Vọng chỉ thấy cổ tay trái hơi tê, thanh kiếm trong tay y đã bị đoạt mất. Lúc Vệ Thiên Vọng đoạt kiếm của Quách Tương, thân pháp thật là nhanh, khiến người ta không sao nhìn rõ, nhưng lúc này Hà Túc Đạo lách qua nhẹ nhàng thuận tay lấy lại thanh đoản kiếm, từ thân pháp đến cử động, không có điểm nào khác thường.</item>
+        <item>Vệ Thiên Vọng kinh hãi, tiến lên một bước, mấy ngón tay như cái móc, chộp luôn vào vai y. Hà Túc Đạo lại nghiêng người né tránh, trảo đó lướt qua thân y. Phan Thiên Canh và Phương Thiên Lao đột nhiên nhảy lùi lại ra ngoài đình. Vệ Thiên Vọng tả quyền hữu chưởng đánh ra, tiếng gió kêu vù vù, chỉ giây lát đã đánh ra bảy tám chiêu liền. Hà Túc Đạo né trái lách phải, khiến đến vạt áo cũng không chạm đến. Tay y cầm thanh đoản kiếm, đối với quyền chiêu gió táp mưa sa của đối phương không hề đỡ gạt, chỉ nhẹ nhàng nghiêng người đã làm cho Vệ Thiên Vọng đánh hụt ra ngoài.</item>
+        <item>Đối với lứa tuổi của Quách Tương, tuy võ thuật nàng không tinh thâm nhưng trong những người quen biết không hiếm cao thủ vào hạng nhất, kiến thức lại hơn người, thấy Hà Túc Đạo cử động trông nhẹ nhàng nhưng thân pháp hết sức xảo diệu, né tránh những chiêu thức cực kỳ cương mãnh của địch, võ công thân pháp thành riêng một nhà, so với các môn phái ở Trung Thổ không giống ai, càng xem càng thấy kỳ lạ.</item>
+        <item>Vệ Thiên Vọng liên tiếp đánh ra hơn hai chục chiêu vẫn không ép được đối phương xuất thủ, hự một tiếng nhỏ, quyền pháp bất ngờ đổi hẳn, xuất chiêu chậm chạp, nhưng quyền lực nặng nề. Quách Tương đứng ở bên trong đình, cảm thấy quyền phong càng lúc càng nặng đẩy nàng từng bước lùi ra bên ngoài.</item>
+        <item>Lúc này Hà Túc Đạo không còn có thể chỉ né tránh mà không trả đòn, y cài đoản kiếm vào dây lưng, hai chân đứng vững lại, quát lên:</item>
+        <item>- Ngươi biết ngạnh công, tưởng ta không biết sao?</item>
+        <item>Đợi Vệ Thiên Vọng hai chưởng đánh tới, tay trái phản kích lại một chưởng, lấy ngạnh công chống với ngạnh công, nghe bình một tiếng, Vệ Thiên Vọng thân hình hơi lảo đảo, lùi lại hai bước. Hà Túc Đạo đứng nguyên một chỗ không động đậy.</item>
+        <item>Vệ Thiên Vọng vẫn tự cho là mình ngoại môn ngạnh công trên đời ít ai bì kịp, nào ngờ đối phương lấy cứng chống cứng không hề mượn sức hay trổ tài khéo léo, đẩy mình lùi lại. Y trong lòng không phục, hít một hơi, quát lên một tiếng, hai chưởng lại đánh ra. Hà Túc Đạo cũng quát lên một tiếng, đánh lại một chưởng. Chỉ nghe tiếng ầm ầm liên tiếp, khiến cho lỗ hổng trên mái đình đất đá rơi xuống rào rào.</item>
+        <item>Vệ Thiên Vọng lùi lại bốn bước, sau cùng cũng đứng lại được. Y đỡ xong hai chưởng này, đầu tóc rồi bù, hai mắt lồi ra, hình dáng trông thật dễ sợ. Hai tay y ôm vào đan điền, thở hù hù vận khí mấy lần, ngực lõm vào, bụng lại phình ra như cái trống, toàn thân các khớp xương kêu lốp cốp, từng bước từng bước chậm chậm bước về phía Hà Túc Đạo.</item>
+        <item>Hà Túc Đạo thấy tình thế của y như vậy, không dám coi thường, điều vận chân khí, đứng chờ thế của địch.</item>
+        <item>Vệ Thiên Vọng đi đến còn cách đối phương chừng bốn năm thước, đã tưởng phát chiêu, nào ngờ không ngừng bước mà vẫn tiếp tục tiến thêm hai bước nữa, đến đứng đối diện tưởng như hơi thở của nhau có thể cảm thấy được, lúc ấy hai chưởng mới tung ra, một chưởng đánh vào mặt, một chưởng lại đánh vào bụng dưới. Lần này y phân ra hai chưởng, cốt để đối thủ phải phân lực ra làm hai. Chiêu thế cũng như chưởng lực đều thật là hùng mạnh.</item>
+        <item>Hà Túc Đạo cũng lập tức hai chưởng đưa ra, hai tay chéo lại, tay trái y đỡ lấy tay trái địch thủ, tay phải y đỡ lấy tay phải của địch, nhưng chưởng lực lại phân thành một cương, một nhu. Vệ Thiên Vọng chỉ thấy chưởng của y đánh vào bụng dưới địch như đánh vào chỗ không, còn tay phải đánh vào mặt thì như đụng phải tường đồng vách sắt, biết là không ổn, chỉ thấy mình bị một lực to lớn đánh vào, khiến cả thân hình y bị đẩy văng ra khỏi thạch đình.</item>
+        <item>Kỳ này hai người lấy cứng chọi cứng, dùng lực chống lực, ai yếu hơn sẽ bị thương, không thể nào lấy gì ngoắt ngoéo. Dù cho Vệ Thiên Vọng có gượng đứng được, hoặc một chiêu đã ngã, thì chưởng lực của chính y phản kích trở lại, lại thêm chưởng lực của Hà Túc Đạo, ắt y thể nào cũng phải hộc máu tươi. Phan Thiên Canh và Phương Thiên Lao cùng kêu lên:</item>
+        <item>- Ra tay!</item>
+        <item>Hai người đồng thời nhảy tới, cùng chia nhau mỗi người nắm một cánh tay của Vệ Thiên Vọng nhắc lên, có thế mới tiêu trừ được chưởng lực cương mãnh của Hà Túc Đạo. Vệ Thiên Vọng tuy chưa bị thương, nhưng ruột gan đã chấn động, xương cốt toàn thân tưởng như nát nhừ, thở không ra hơi, không đứng nổi. Ông già lùn mặt đỏ Phương Thiên Lao thấy sư đệ bị một trận đau như thế, trong bụng vừa giận vừa sợ, nhưng mặt ngoài vẫn cười hì hì, nói:</item>
+        <item>- Các hạ chưởng lực mạnh như thế, quả thực trên đời ít thấy, bội phục bội phục.</item>
+        <item>Quách Tương nghĩ thầm: "Nói đến chưởng lực cương mãnh hùng hậu, ai bằng được Hàng Long Thập Bát Chưởng của cha ta? Bọn Côn Lôn Tam Thánh các ngươi trốn lánh ở chốn hoang sơn, ếch ngồi đáy giếng, tưởng là mình giỏi, rồi sẽ có ngày biết đến võ công Trung Thổ". Nàng nghĩ đến đây, trong lòng hơi se lại, vì lúc nàng muốn cho bọn Phương Thiên Lao biết đến võ công Trung Thổ, không phải là biết đến phụ thân mà chính là Dương Quá.</item>
+        <item>Chỉ nghe Phương Thiên Lao nói tiếp:</item>
+        <item>- Tiểu lão nhi bất tài, xin ra lãnh giáo kiếm pháp của các hạ.</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Phương huynh đối xử với Quách cô nương thật nể nang, tại hạ không trách gì cả, chúng ta tỉ thí làm gì.</item>
+        <item>Quách Tương ngạc nhiên: "Ngươi cho gã họ Vệ kia một phen khổ sở, nguyên lai chỉ vì y đối với ta không nể nang ư?"</item>
+        <item>Phương Thiên Lao đến bên con ngựa y cưỡi, từ bao vải lấy ra một thanh trường kiếm, nghe một tiếng soẹt, đã rút ra khỏi vỏ, giơ ngón tay búng vào thân kiếm một cái, tiếng u u nổi lên một hồi lâu không dứt. Khi kiếm đã trong tay, nụ cười trên môi lập tức biến mất, tay trái bắt kiếm quyết đưa ra trước mặt, ngón tay đưa lên, tay phải cầm kiếm chỉ lên trời không động đậy, chính là chiêu "Tiên Nhân Chỉ Lộ".</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Nếu quả Phương huynh muốn động thủ, thì tôi xin dùng đoản kiếm của Quách cô nương thử một vài chiêu.</item>
+        <item>Y nói rồi rút ra nửa thanh kiếm gãy. Thanh kiếm đó vốn đã dài không quá hai thước, sau khi Vệ Thiên Vọng dùng ngón tay bẻ gãy rồi, lưỡi kiếm chỉ còn bảy tám tấc. Đầu kiếm lại thẳng không nhọn, đến như con dao găm cũng không bằng. Tay trái y cầm bao kiếm, tay phải cầm thanh kiếm gãy nhảy vào tấn công.</item>
+        <item>Lần nay y ra tay cực kỳ nhanh nhẹn, trước mắt Phương Thiên Lao chỉ thấy một vệt trắng thấp thoáng, Hà Túc Đạo đã liên tiếp công kích ba chiêu, tuy rằng thanh kiếm gãy quá ngắn không làm y bị thương, nhưng Phương Thiên Lao trong bụng cũng hãi sợ, nghĩ thầm: "Ba chiêu này nhanh thật, quả không dễ gì né tránh, kiếm pháp này là kiếm pháp gì đây? Nếu trong tay y mà là trường kiếm thì có lẽ máu mình đã đổ ra tại chỗ rồi."</item>
+        <item>Hà Túc Đạo tấn công ba chiêu xong, lui ra một bên, đứng yên bất động. Phương Thiên Lao khai triển kiếm pháp, nửa thủ nửa công, hung hăng xông tới. Hà Túc Đạo né qua một bên, nhưng không trả đòn, lại bất ngờ tấn công ba chiêu thật nhanh, ép Phương Thiên Lao phải tay chân lúng túng, rồi lại nhảy ra ngoài đứng chờ. Thanh kiếm trong tay Phương Thiên Lao lại tung ra tấn công, chỉ thấy ánh sáng trắng nhấp nháy, cực kỳ nhanh nhẹn.</item>
+        <item>Quách Tương nghĩ thầm: "Lão già này chiêu số thật là cương mãnh, độc địa, so với chưởng pháp của lão họ Vệ cũng cùng một lối, có điều có thêm ba phần linh động, lại có vẻ lợi hại hơn ..." Vừa nghĩ tới đây, chợt nghe Hà Túc Đạo quát lên: "Cẩn thận nhé". Chữ nhé vừa ra khỏi miệng, bao kiếm bên tay trái giơ lên, nhanh như điện chớp, nghe xẹt một tiếng nhỏ, bao kiếm trong tay đã chụp lấy mũi kiếm của Phương Thiên Lao, kiếm bên tay phải nhanh nhẹn chĩa ngay vào yết hầu địch thủ.</item>
+        <item>Trường kiếm của Phương Thiên Lao không còn tự do, không cách gì có thể thu kiếm về để gạt, mắt thấy kiếm đâm vào cổ họng mình, chỉ còn cách bỏ thanh kiếm, lăn ngay xuống đất, mới tránh được chiêu này. Y chưa kịp đứng dậy, một bóng người thấp thoáng, Phan Thiên Canh đã vọt mình nhảy tới, chộp lấy chuôi thanh trường kiếm, xoay mình một cái, rút ra khỏi bao. Cả Hà Túc Đạo lẫn Quách Tương đều lên tiếng khen ngợi:</item>
+        <item>- Hảo thân pháp!</item>
+        <item>Ông già mặt trông như người bệnh ấy trước sau không thốt ra một lời, võ công hóa ra cao nhất trong ba người. Hà Túc Đạo nói:</item>
+        <item>- Công phu của các hạ cao cường, tại hạ thật bội phục.</item>
+        <item>Nói rồi quay đầu lại nói với Quách Tương:</item>
+        <item>- Quách cô nương, từ khi được nghe nhã tấu của cô nương hôm trước, tôi đã sáng tác một bản đàn, mong được cô nương bình phẩm.</item>
+        <item>Quách Tương nói:</item>
+        <item>- Bản đàn nào thế?</item>
+        <item>Hà Túc Đạo ngồi xuống xếp bằng, lấy cây dao cầm đặt lên lòng, lên dây thử vận, rồi bắt đầu gẩy đàn.</item>
+        <item>Phan Thiên Canh nói:</item>
+        <item>- Các hạ liên tiếp đánh bại hai người sư đệ của tôi, họ Phan này muốn được thỉnh giáo.</item>
+        <item>Hà Túc Đạo xua tay:</item>
+        <item>- Chuyện tỉ thí võ công đã qua rồi, không còn hứng thú gì nữa. Đây là một bản đàn mới, ta đang muốn gẩy cho Quách cô nương nghe. Ba vị nếu như muốn nghe, xin mời ngồi xuống, nếu như không hiểu, xin cứ tự tiện.</item>
+        <item>Tay trái ấn phím, tay phải bắt đầu đánh đàn. Quách Tương chỉ mới nghe vài nốt, bất giác vừa mừng vừa sợ. Hóa ra bản đàn này một phần là từ "Khảo Bàn" là khúc nàng đã tấu qua, nhưng một phần khác lại từ trong thơ "Kiêm Gia", hai bản không cùng một điệu, nhưng y đã hòa lại với nhau, một ứng một đáp, nghe ra thật là kỳ diệu. Tuy nhiên khi nghe cầm vận tới đoạn "khảo bàn tại giản, thạc nhân chi khoan. Kiêm gia thương thương, bạch lộ vi sương, sở vị y nhân, tại thiên nhất phương ... thạc nhân chi khoan, thạc nhân chi khoan ... tố hồi tòng chi, đạo trở thả trường, tố du tòng chi, uyển tại thủy trung ương ... độc tẩm ngụ ngôn, vĩnh thỉ vật huyên, vĩnh thỉ vật huyên ..." Quách Tương trong lòng thấy hơi chạnh lòng: "Trong tiếng đàn của y có nói đến y nhân, chẳng lẽ nhắc đến ta ư? Sao điệu đàn có vẻ ý tứ triền miên đến thế, nghe đầy những nhớ thương cảm mến?" Nghĩ đến đây, nàng không khỏi ửng hồng đôi má. Có điều điệu đàn đó biến chuyển thực là khéo léo, nguyên vận hai bài "Khảo Bàn" và "Kiêm Gia" không lạc nhau chút nào, hai bên nhịp nhàng đối đáp, song vẫn giữ được tất cả những hoa mỹ của cả hai. Trong đời nàng chưa bao giờ được nghe một khúc nhạc như thế cả.</item>
+        <item>Thế nhưng bọn Phan Thiên Canh ba người chẳng ai hiểu gì. Họ không biết rằng Hà Túc Đạo là người hơi điên khùng, có chút mê mẩn của một cuồng sĩ, vừa làm được một bản đàn, nhất định phải kiếm Quách Tương để gẩy cho nghe bằng được, huống chi khúc đàn này cũng vì nàng mà sáng tác, nên lúc ấy mọi việc đều gác sang một bên. Thế nhưng ba ông già thấy y ngưng thần đánh đàn, chẳng thèm để ý chi đến mình, quả thực hết sức khinh người, làm sao họ có thể nhịn nổi? Phan Thiên Canh vung thanh trường kiếm, điểm ngay vào vai bên trái Hà Túc Đạo, hét lớn:</item>
+        <item>- Mau đứng lên, ta với ngươi hai người so tài nào!</item>
+        <item>Hà Túc Đạo toàn thể tâm trí đang để vào tiếng đàn, tưởng mình đang là một thư sinh ngao du nơi khe núi, ngắm một thiếu nữ ôn nhu đứng trên một hòn đảo nhỏ xa xa, lòng không ngại núi non cách trở, đang cố tìm cách qua gặp nàng ...</item>
+        <item>Bỗng dưng thấy vai trái nhói một cái, y liền tỉnh mộng, quay đầu nhìn lại, thấy trường kiếm trong tay Phan Thiên Canh đã chỉ vào đầu vai mình, đâm nhẹ vào da, nếu không đỡ gạt, e rằng đối phương sẽ tiện đà đâm tới khiến cho bị thương. Thế nhưng bản đàn chưa tấu xong, tục nhân lại ở bên cạnh quấy nhiễu, thực là phá đám. Y lập tức cầm thanh kiếm gãy, keng một tiếng, gạt thanh trường kiếm của Phan Thiên Canh ra, tay phải vẫn tiếp tục gảy đàn.</item>
+        <item>Lúc này Hà Túc Đạo mới giở tuyệt kỹ bình sinh, tay phải đàn cầm, tay trái sử kiếm. Y không sao nhấn phím được nên nhắm năm dây đàn dùng sức thổi một cái, dây đàn lập tức lõm xuống, tay phải tiếp tục gảy như thường, tiếng đàn cao thấp trầm bổng, vẫn uyển chuyển như ý.</item>
+        <item>Phan Thiên Canh cấp tốc công kích mấy chiêu, Hà Túc Đạo thuận tay gạt ra, hai mắt vẫn chăm chú nhìn dây đàn, chỉ e hơi thổi ra không trúng tiết, làm loạn tiếng đàn. Phan Thiên Canh càng thêm giận dữ, kiếm chiêu càng công càng nhanh, nhưng bất luận kiếm của y từ phương nào đâm tới, đều bị Hà Túc Đạo nhẹ nhàng gạt qua một bên.</item>
+        <item>Quách Tương nghe tiếng đàn, trong lòng nổi nhạc hứng, không để ý gì đến những đường kiếm đánh tới của Phan Thiên Canh, thế nhưng hai thanh kiếm chạm nhau làm cho cầm thanh bị loạn. Hai tay nàng đánh nhịp theo tiếng đàn, nhíu mày nhìn Phan Thiên Canh nói:</item>
+        <item>- Ông ra chiêu lúc nhanh lúc chậm không hợp với tiếng đàn, bộ ông không biết gì về âm nhạc ư? Hừ, ông phải nghe theo tiếng đàn mà xuất kiếm, có theo nhịp thì nghe mới được.</item>
+        <item>Phan Thiên Canh đời nào để ý đến cô, chỉ thấy trước mặt kẻ địch ngồi xếp bằng trên đất, tay chỉ cầm một thanh kiếm gãy, mắt chăm chú nhìn dây đàn, vậy mà mình không sao chạm được vào y, lại càng nóng ruột. Đột nhiên y đổi kiếm pháp, công kích càng nhanh hơn, hai món binh khí chạm nhau leng keng như tiếng mưa rào. Âm thanh cấp bách đó so với tiếng đàn ôn nhã triền miên quả thực không hài hòa chút nào.</item>
+        <item>Hà Túc Đạo nhướng đôi lông mày, truyền kình lực vào thanh đoản kiếm, nghe cách một tiếng, thanh kiếm trong tay Phan Thiên Canh lập tức gãy ra làm đôi. Thế nhưng cũng lúc đó, dây thứ năm trong bảy dây đàn cũng đứt theo. Phan Thiên Canh mặt xám như tro, không nói một lời, chuyển thân chạy ra khỏi đình. Ba người nhảy lên lưng ngựa, chạy vọt lên hướng triền núi.</item>
+        <item>Quách Tương thật lạ lùng, nói:</item>
+        <item>- Hừ, ba người này đánh đã thua rồi, tại sao còn chạy lên chùa Thiếu Lâm? Bộ họ muốn chết hay sao chứ?</item>
+        <item>Nàng quay đầu lại, thấy Hà Túc Đạo mặt buồn thiu, tay vuốt ve dây đàn, tưởng như không nói lên được nỗi đau khổ của mình. Quách Tương nghĩ thầm: "Một sợi dây đàn, có đáng gì đâu?".Lập tức tiếp lấy cây dao cầm cởi đoạn dây đàn bị đứt mở dây đàn ra căng lại sợi dây mới.</item>
+        <item>Hà Túc Đạo lắc đầu thở dài, nói:</item>
+        <item>Uổng phí bao năm tu tập, cuối cùng rồi lòng vẫn chưa tĩnh được. Tuy tay trái tôi đưa kình lực ra làm gãy được kiếm của y, nhưng tay phải cũng lại làm đứt dây đàn.</item>
+        <item>Bấy giờ Quách Tương mới rõ, nguyên là y thất vọng vì võ công của mình luyện chưa thuần thục, nên cười đáp:</item>
+        <item>- Việc ông có thể tay trái dũng mãnh công địch , tay phải lại thư thả chậm rãi gẩy đàn, là phép phân tâm nhị dụng, trên cõi đời này hiện nay chỉ có ba người làm được thôi. Ông luyện chưa đến mức đó, cũng không có gì phải bực mình.</item>
+        <item>Hà Túc Đạo hỏi lại:</item>
+        <item>- Ba người đó là ai?</item>
+        <item>Quách Tương đáp:</item>
+        <item>- Vị thứ nhất là Lão Ngoan Đồng Chu Bá Thông, người thứ hai là cha tôi, còn người thứ ba là Dương phu nhân Tiểu Long Nữ. Trừ ba người ấy ra, dù cho là ông ngoại tôi Đào hoa đảo chủ, hay mẹ tôi, hoặc Thần Điêu đại hiệp Dương Quá, là những người võ công rất cao, nhưng cũng không làm được.</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Thế gian có những kỳ nhân như thế, bao giờ có dịp mong cô đưa tôi đến gặp họ.</item>
+        <item>Quách Tương buồn bã nói:</item>
+        <item>- Muốn gặp cha tôi thì không khó, còn hai vị kia, không biết đi đâu để kiếm họ được.</item>
+        <item>Nàng thấy Hà Túc Đạo ngơ ngẩn xuất thần, lại nghĩ đến chuyện đứt dây đàn, nên an ủi y:</item>
+        <item>- Ông chỉ giơ tay đã đánh bại được Côn Lôn Tam Thánh, cũng đủ hãnh diện với đương thế rồi, hà tất vì chuyện nhỏ mọn là đứt dây đàn mà rầu rĩ không vui?</item>
+        <item>Hà Túc Đạo giật mình kinh hãi, hỏi lại:</item>
+        <item>- Côn Lôn Tam Thánh ư? Cô nói gì? Sao cô lại biết?</item>
+        <item>Quách Tương cười đáp:</item>
+        <item>- Ba lão già đó từ Tây Vực đến, ắt là Côn Lôn Tam Thánh đó. Bọn họ võ công quả nhiên có chỗ độc đáo, chỉ có điều khiêu chiến với chùa Thiếu Lâm, e rằng không tự lượng sức mình ...</item>
+        <item>Nàng thấy sự kinh hoàng của Hà Túc Đạo mỗi lúc một nhiều, nên không dám nói tiếp nữa, hỏi lại:</item>
+        <item>- Có gì kỳ quái?</item>
+        <item>Hà Túc Đạo lẩm bẩm:</item>
+        <item>- Côn Lôn Tam Thánh, Côn Lôn Tam Thánh Hà Túc Đạo chính là tôi đây.</item>
+        <item>Quách Tương giật mình kinh hãi, nói:</item>
+        <item>- Ông là Côn Lôn Tam Thánh ư? Vậy còn hai người kia đâu?</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Côn Lôn Tam Thánh chỉ có một người, xưa nay không phải ba người bao giờ. Tôi ở Tây Vực cũng có được một chút danh nho nhỏ, bạn bè ở đó nói tôi có ba tuyệt kỹ, cầm kỳ kiếm, có thể nói là cầm thánh, kỳ thánh, kiếm thánh. Nhân vì tôi sinh trưởng trong núi Côn Lôn, nên gán cho tôi một cái ngoại hiệu, gọi là Côn Lôn Tam Thánh. Thế nhưng tôi nghĩ cái chữ "thánh" đó, đâu phải dễ dàng gì mà xưng như thế? Thế nhưng người khác đã dát vàng lên trên mặt mình rồi, không thể từ chối được. Thành thử, tôi phải đổi tên, gọi mình là "Túc Đạo", nối liền với nhau, thành là Côn Lôn Tam Thánh Hà Túc Đạo[8] để cho người khác nghe được không cho là tôi cuồng vọng tự đại.</item>
+        <item>Quách Tương vỗ tay cười:</item>
+        <item>- Hóa ra là như thế. Tôi vẫn tưởng là Côn Lôn Tam Thánh phải là ba người. Thế ba ông già đó là ai?</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Bọn họ ư? Họ thuộc phái Thiếu Lâm.</item>
+        <item>Quách Tương lấy làm lạ, nói:</item>
+        <item>- Nguyên lai ba người này thuộc phái Thiếu Lâm. Ừ, võ công của họ quả đúng là cương mãnh. Không sai, ông già mặt đỏ sử dụng chính là Đạt Ma kiếm pháp. Đúng rồi, ông già bệnh hoạn mặt vàng lúc sau công kích thật gấp, chẳng phải Vi Đà Phục Ma kiếm hay sao? Chỉ vì họ thêm thắt biến hóa nhiều, nhất thời tôi không nhận ra được. Nhưng sao họ lại từ Tây Vực đến đây?</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Chuyện này nói ra cũng có nguyên nhân. Mùa xuân năm ngoái, tôi ở tại đỉnh Kinh Thần Phong gẩy đàn, bỗng đâu nghe ngoài lều tranh có tiếng đấm đá, vội ra xem, thấy hai người đang vật nhau, cả hai đều đã trọng thương, nhưng vẫn tận lực chiến đấu. Tôi quát họ bắt ngừng tay, nhưng không ai chịu yên, tôi phải đến can hai người ra. Một trong hai người chỉ trợn ngược mắt lên rồi chết, người kia còn thoi thóp. Tôi đưa y vào trong lều, cho y uống một viên Thiếu Dương đơn, cứu chữa nửa ngày, nhưng vì bị thương quá nặng, linh đơn không cứu mạng nổi. Khi y sắp chết, nói tên là Doãn Khắc Tây ...</item>
+        <item>Quách Tương A lên một tiếng, nói:</item>
+        <item>- Phải chăng người đánh nhau với y là Tiêu Tương Tử? Người đó thân hình cao gầy, mặt trông như xác chết, phải không?</item>
+        <item>Hà Túc Đạo lạ lùng:</item>
+        <item>- Đúng vậy, sao cô cái gì cũng biết?</item>
+        <item>Quách Tương đáp:</item>
+        <item>- Tôi đã gặp họ rồi, không ngờ hai tên thân thiết như thế, cuối cùng lại đánh nhau đến chết.</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Doãn Khắc Tây nói rằng y một đời làm nhiều điều tàn ác, đến khi sắp chết, hối hận cũng đã muộn. Y nói y và Tiêu Tương Tử hai người vào chùa Thiếu Lâm ăn cắp một bộ kinh thư, nhưng người nọ e dè người kia, không ai dám để người kia coi trước, sợ nếu đối phương võ công cao hơn, sẽ ra tay trừ khử mình, chiếm lấy bộ kinh. Hai người ăn cùng mâm, ngủ cùng giường, một bước không rời nhau. Thế nhưng ăn thì sợ người kia hạ độc, ngủ thì sợ người kia ám toán, lúc nào cũng nơm nớp không an, lại sợ hòa thượng chùa Thiếu Lâm đuổi theo, nên phải chạy đến Tây Vực. Đến khi họ đến được Kinh Thần Phong, hai người đã gân cốt rã rời, nhưng không ai chịu ai, cuối cùng ra tay đánh nhau. Doãn Khắc Tây nói là Tiêu Tương Tử vốn võ công cao hơn y, lại ra tay đánh y trước một chưởng, nhưng kết quả y vẫn chiếm thượng phong. Sau y mới nghĩ ra rằng, Tiêu Tương Tử khi ở trên núi Hoa Sơn đã bị trọng thương, nguyên khí vẫn chưa hồi phục. Nói trắng ra, nếu hai người không e ngại lẫn nhau, chắc cũng không thể nào lên tới núi Côn Lôn được.</item>
+        <item>Quách Tương nghe câu chuyện, nghĩ đến hai người đường đi lúc nào cũng lo ngay ngáy, đến chết cũng vẫn còn chưa yên bụng, không khỏi thương cảm, nên than:</item>
+        <item>- Chỉ vì một bộ kinh thư, đến nỗi sinh ra cớ sự.</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Tên Doãn Khắc Tây nói xong câu chuyện, hơi đã đứt đoạn, sau cùng cầu tôi đến chùa Thiếu Lâm, nói lại với một vị tên hòa thượng tên là Giác Viễn, rằng kinh thư ở trong dầu chi đó. Tôi nghe thấy kỳ quái, cái gì mà lại kinh thư ở trong dầu? Định sẽ hỏi lại cho kỹ, nhưng nào ngờ y không còn chịu nổi, đã hôn mê bất tỉnh rồi. Tôi đợi y tỉnh lại sẽ hỏi cho ra lẽ, nào ngờ y thiếp đi rồi không tỉnh nữa. Tôi nghĩ hay là bộ kinh đó bao trong tấm vải tẩm dầu chăng? Thế nhưng tra xét khắp người hai tên này, không thấy gì cả. Nhận lời ủy thác của người, phải làm tròn việc. Tôi bình sinh chưa đặt bước đến Trung Thổ, cũng muốn nhân dịp này du ngoạn một phen, vì thế đến chùa Thiếu Lâm là vậy.</item>
+        <item>Quách Tương hỏi lại:</item>
+        <item>- Thế sao ông lại đến chùa Thiếu Lâm hạ chiến thư, muốn cùng bọn họ tỉ thí võ nghệ?</item>
+        <item>Hà Túc Đạo mỉm cười:</item>
+        <item>- Chuyện đó cũng là từ ba gã này mà ra. Ba người này là đệ tử tục gia của phái Thiếu Lâm Tây Vực. Cứ theo người trong võ lâm Tây Vực nói, họ đều là trong hàng chữ "Thiên", cùng hàng với phương trượng chùa Thiếu Lâm Thiên Minh thiền sư. Hình như sư tổ của họ trước đây có chuyện bất đồng với sư huynh đệ, giận dữ bỏ đi, truyền ra một phái Tây Vực Thiếu Lâm. Nguyên võ công của phái Thiếu Lâm, tổ sư Đạt Ma truyền từ Thiên Trúc sang Trung Thổ, nay từ Trung Thổ lại truyền sang Tây Vực, cũng không có gì là lạ. Ba người đó nghe danh hiệu tôi là Côn Lôn Tam Thánh nên muốn đến so tài cao thấp. Họ tự hào là võ Thiếu Lâm thiên hạ vô địch, tôi muốn xưng cầm thánh, kỳ thánh thì cũng không sao. Còn cái danh hiệu kiếm thánh thì nhất định không chịu, không bỏ đi không được, chỉ được xưng là nhị thánh chứ không thể xưng là tam thánh. Chính lúc đó tôi lại đang sắp sửa ra đi, thành ra một công đôi chuyện, nên sai người đến ước hẹn sẽ gặp nhau tại chùa Thiếu Lâm, rồi tự mình lên đường đến Trung Nguyên. Nào hay ba vị nhân huynh này cước trình cũng thật mau lẹ, đã bôn ba đến nơi rồi.</item>
+        <item>Quách Tương cười nói:</item>
+        <item>- Hóa ra sự việc là như thế, làm cho tôi chẳng hiểu đầu đuôi gì cả. Ba lão già giờ này chắc đã đến chùa Thiếu Lâm, không biết nói năng làm sao đây?</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Tôi vốn dĩ không quen biết gì với các nhà sư chùa Thiếu Lâm, cũng không thù không oán, sở dĩ đính ước với họ mười ngày cốt đợi ba lão này tới, lúc đó mới động thủ. Hiện tại hai bên đã thử tài nhau rồi, thôi cả hai người mình cùng lên, đợi tôi truyền lại câu nói đó xong, rồi mình xuống núi.</item>
+        <item>Quách Tương nhíu mày:</item>
+        <item>- Qui củ của mấy hòa thượng này rất chặt chẽ, không cho đàn bà con gái vào chùa.</item>
+        <item>Hà Túc Đạo nói:</item>
+        <item>- Hừ, cái qui củ gì thối tha thế? Bọn mình cứ tiến vào, chẳng lẽ họ sẽ giết mình sao?</item>
+        <item>Quách Tương tuy là một cô gái hiếu sự, nhưng từ khi làm quen với Vô Sắc thiền sư, nàng không còn địch ý với chùa Thiếu Lâm, nên cười lắc đầu:</item>
+        <item>- Tôi đứng ngoài sơn môn chờ, ông tự mình đi vào chùa truyền ngôn, như thế khỏi thêm phiền.</item>
+        <item>Hà Túc Đạo gật đầu:</item>
+        <item>- Thế cũng được, cái bản đàn tôi chưa tấu xong, khi trở xuống tôi sẽ đàn lại cho cô nghe một lượt.</item>
+        <item>--------------------------------------------------------------------------------</item>
+        <item>[1] Đoạn này không biết trích từ kinh nào nên không rõ nghĩa. Độc giả nào biết xin chỉ giáo. Đa tạ</item>
+        <item>[2] Chó dữ chặn đường</item>
+        <item>[3] Nguyên tiếng Phạn Lanka là tên đảo Tích Lan (Sri Lanka), cũng là tên một ngọn núi ở đây. Tích Lan là nơi mà kinh điển nhà Phật được viết trên lá cây đầu tiên. Kinh Lăng Già tức là Lankavatara sutra.</item>
+        <item>[4] Đàn có khảm ngọc</item>
+        <item>[5] Vỗ bàn nơi suối nước là cái khoan khoái của người quân tử. Tỉnh hay mê cũng một mình mình biết, không bao giờ quên.</item>
+        <item>[6] Vỗ bàn nơi gò cao là cái cốt cách của người quân tử. Dẫu tỉnh hay mê cũng chỉ mình biết không cần ai hay.</item>
+        <item>[7] Hà Túc Đạo theo nghĩa đen là "nói tới làm gì".</item>
+        <item>[8] Có nghĩa không đáng gọi là Côn Lôn Tam Thánh.</item>
+    </string-array>
+
+</resources>

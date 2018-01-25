@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true">
+    --sequence tuc la chay lan luot (khai bao lan luot o day)
+    <rotate
+        android:fromDegrees="0"
+        android:toDegrees="180"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        />
+    <translate
+        android:duration="800"
+        android:fromYDelta="-100"
+        android:toYDelta="0"
+        />
+    <rotate
+        android:startOffset="500"
+        android:duration="2000"
+        android:fromDegrees="0"
+        android:toDegrees="-360"
+        android:pivotX="190%"
+        android:pivotY="50%"
+        />
+    <rotate
+        android:startOffset="1500"
+        android:duration="1000"
+        android:fromDegrees="0"
+        android:toDegrees="-45"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        />
+    <translate
+        android:startOffset="2200"
+        android:duration="1500"
+        android:fromXDelta="0"
+        android:toXDelta="400"
+        android:fromYDelta="0"
+        android:toYDelta="400"
+        />
+</set>

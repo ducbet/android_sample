@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:id="@+id/frame_layout_fab"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_gravity="bottom|right"
+             android:layout_marginBottom="16dp"
+             android:layout_marginRight="16dp">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="70dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:clickable="false"
+        android:src="@drawable/ic_skip_next_white_24px"/>
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="70dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:clickable="false"
+        android:src="@drawable/ic_search_white_24px"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_previous"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="70dp"
+        android:layout_marginRight="70dp"
+        android:backgroundTint="@android:color/darker_gray"
+        android:clickable="false"
+        android:src="@drawable/ic_skip_previous_white_24px"/>
+</FrameLayout>

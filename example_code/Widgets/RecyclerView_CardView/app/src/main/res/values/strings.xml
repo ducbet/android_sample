@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView_CardView</string>
+    <string name="section1">Section 1</string>
+    <string name="more">MORE</string>
+    <string name="section2">Section 2</string>
+    <string name="section3">Section 3</string>
+</resources>
